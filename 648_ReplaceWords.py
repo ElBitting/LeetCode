@@ -1,3 +1,5 @@
+#Brute Force - Need to learn about Tries
+
 class Solution:
     def replaceWords(self, dictionary: List[str], sentence: str) -> str:
         sentence = sentence.split(' ')
